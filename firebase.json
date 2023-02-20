@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "proyectofinalcursofull-stack",
+  "private_key_id": "54c1a3c955debed81aa677f7caa2eeb56ac934c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDfV+ZBMED8fhyt\nDqbs7b3IPIO44Fp4kr6MTjdB84vKfuq6tE3mxOlTojD4Y02+0b95XSbf9b9zDee5\n255J0zMf91PcOxKkIyALrUBqbqe1NPGq73Nac6+mim+xVJ5Yk0Z0t0jJJL+MElgu\n3haP79uyWE1UOhH171k7OBUT+KemgA5Pnt4lbSHU/WaLdQFc6VamEVYttsSEZVq8\nUnzdFmfdELqTNBIvHR+WLf90qlQQTcVnrbm1uLP+9Uv79mzmcVD3hnowiccVNM1K\nQJCjTG8PLjQyoGXFVB7ALtIkJRmNI3ZzoJWbZzfhhPZqi5TtEEhvSs5FHL/An7Y6\n3IIxsKDPAgMBAAECggEAG7GW39RvlR9qHNypPs2ymlFD9WOptDO1+Z3P5Oyhvn0t\noUhZidjhebkDIM7ncAGAIDi4aPgxl2miUdMf9dWAtwuq/q7l09Z10xzWKkcITUQr\nBzVjyf54SZ/2041DiTDR1rJ3YwGcgsOE4w2EzK+YQAK1AVGmB9HNmws23zVrobhv\nPB5BpYuCDpJpZEQV9anshn0t6YssZ8HidQlRIl3IRy+yXXGwGnmRKifbU0QD6lrC\nQqZulJsl48ByKY9CxXwM6Pt0lcheLhPkmYtVAinFAimiu2y68jk1H2MJWkBzRb8K\nwxj813Q72y+3HTTtA/OWr9lbvBp3fW5vCCh6dKiDCQKBgQD1XPueoMDkTwW/bOp7\njAJpvoX1LQ1Lp8sNQodUWC77C4nOR68S1nv5qu30VXeGWBnVGrpEnKjnMNG8eOQg\nb8EYl5Oj5tEZc4g6A81lzfKyHxw+/me+aY2IvwDL8nwpKKNXRPzbUkxN/+KZFw6/\nSy1M6U+EGQGPaAirRd+T5/Y/JQKBgQDpBorUoD4+/aw3RkWRLOHxKlFu4gdBuVeg\nRFHmUkLV6XAxPTSIg3kJJ8a+W1uH2IY0MldQKk1Z0E1QjHznPlixmyFb4fbNaf8R\nzpsduSb7aM89IgI/aYGIMsJ+SHP0zqdxIwiUZSaHO9bmu2nHawhAOiHyKSN8oJtw\nRX4NAlgn4wKBgQC4VYbkAblozMVwrw7qiqE1eGGDdLlMYV73M0ggYa/KAz0gsFIj\nQOgbBgOHUL5fO8kMhOvzqA5swgyQH/KjO9JB+3574GivSlDJ5RlmpnbywtShrtea\nAgrG9VhP4HjPIyyz36xnyUhyQQ+oG96EcKIz6gRHJdI6PtpkcjYqFFa30QKBgQCQ\nRfyuqIfheC2oC1oHCELbjdfdTxQvHRGjqKkMcOHwjxdnZP2hh8ToZjgmo2mIMgbl\nSkXE3GwHr3Au7sxmX7OKQwHkYYLsqzPBUqm3PWtlPP8SWnwJxsjsCoFgrnscltYU\nthwZxIaWM/ZZ5K8ZSKtTGKrrw4y1HLsgR+ZDJ7BtAQKBgG8u265grpJCwPRREx/e\nCcwK8vq1e262jmCtL5JbOGAc1Kl7irXDgjbxpRdWrrUE0yU/Wqfcgb1/h694zWxN\nKCqJb37KqMu4SLcycRR2vd23d50JAl6Au25LqiEj11tsdvGJwW5JAbXy2QbE9g2J\nqLBaDVScLD34RJ4jyPAoH58M\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-v2u6x@proyectofinalcursofull-stack.iam.gserviceaccount.com",
+  "client_id": "108936943673325579182",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-v2u6x%40proyectofinalcursofull-stack.iam.gserviceaccount.com"
+}
